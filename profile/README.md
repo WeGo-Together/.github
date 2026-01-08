@@ -1,6 +1,8 @@
 <div align="center">
   <h1>🖐️ Welcome To WeGo!</h1>
-  <img width="600" height="300" alt="OpenGraph" src="https://github.com/user-attachments/assets/ec02b684-0faa-4623-ae2f-16de3abc20e2" />
+
+  <img width="800" height="481" alt="Thumbnail (1)" src="https://github.com/user-attachments/assets/875ceba7-fcef-409d-9ab1-56fdcb2fda3f" />
+
 
   WeGo는 간단한 인터페이스로 다양한 번개모임을 생성하고 참여할 수 있는 웹 플랫폼입니다.  
   실시간 알림으로 모임 정보를 받아보고, 채팅을 통해 참여자들과 자유롭게 소통해보세요!

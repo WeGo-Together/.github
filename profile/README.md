@@ -20,4 +20,9 @@
   | --- | --- | --- | --- |
   | <div align="center">유환욱(FE)</div> | <div align="center">김정현(BE)</div> | <div align="center">임대일(BE)</div> | <div align="center">소수화(UI/UX)</div> |
 
+  <br></br>
+
+  <h1>🛠️ System Architecture</h1>
+  <img width="1265" height="983" alt="image" src="https://github.com/user-attachments/assets/4630b97b-db4e-44fa-9719-251d6dd36d06" />
+
 </div>

@@ -109,6 +109,7 @@
   <br></br>
 
   <h1>🛠️ System Architecture</h1>
-  <img width="1265" height="983" alt="image" src="https://github.com/user-attachments/assets/4630b97b-db4e-44fa-9719-251d6dd36d06" />
+  <img width="1568" height="898" alt="image" src="https://github.com/user-attachments/assets/da6ea6e2-5959-4b15-a757-fd970218499a" />
+
 
 </div>

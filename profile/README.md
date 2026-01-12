@@ -18,9 +18,34 @@
   | --- | --- | --- | --- | --- | --- | --- | --- |
   | <div align="center">김치영(FE/Lead)</div> | <div align="center">김민서(FE)</div> | <div align="center">이소망(FE)</div> | <div align="center">이율리(FE)</div> | <div align="center">유환욱(FE)</div> | <div align="center">김정현(BE)</div> | <div align="center">임대일(BE)</div> | <div align="center">소수화(UI/UX)</div> |
 
-  <br></br>
 
-  <h1>🔍 Project Overview</h1>
+<br></br>
+
+<h1>📅 Project Planning</h1>
+
+<table>
+  <tr>
+    <th width="200px">문서</th>
+    <th width="500px">설명</th>
+  </tr>
+  <tr>
+    <th><a href="https://www.figma.com/design/mnEc0l7EpYrnA5kwi8h17z/WeGo---Prototype?node-id=0-1&p=f">📐 기획문서</a></th>
+    <th>프로젝트의 전체 기획 방향과 핵심 기능 정의</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/WeGo-Together/WeGo_FrontEnd/wiki">✅ 요구사항 명세서</a></th>
+    <th>상세한 기능 요구사항 및 기술 스펙</th>
+  </tr>
+  <tr>
+    <th><a href="https://www.figma.com/design/mnEc0l7EpYrnA5kwi8h17z/WeGo---Prototype?node-id=290-741&p=f&t=yWxcTRQRMecSm9Nf-0">🎨 디자인 시안</a></th>
+    <th>UI/UX 디자인 프로토타입</th>
+  </tr>
+</table>
+
+
+<br></br>
+
+<h1>🔍 Project Overview</h1>
 
 <details>
 <summary><h2>메인 페이지</h2></summary>
@@ -106,10 +131,9 @@
   
 </details>
 
-  <br></br>
+<br></br>
 
-  <h1>🛠️ System Architecture</h1>
-  <img width="1568" height="898" alt="image" src="https://github.com/user-attachments/assets/da6ea6e2-5959-4b15-a757-fd970218499a" />
-
+<h1>🛠️ System Architecture</h1>
+<img width="1568" height="898" alt="image" src="https://github.com/user-attachments/assets/da6ea6e2-5959-4b15-a757-fd970218499a" />
 
 </div>

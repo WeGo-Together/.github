@@ -36,12 +36,22 @@
     <th><a href="https://github.com/WeGo-Together/WeGo_FrontEnd/wiki">✅ 요구사항 명세서</a></th>
     <th>상세한 기능 요구사항 및 기술 스펙</th>
   </tr>
-  <tr>
-    <th><a href="https://www.figma.com/design/mnEc0l7EpYrnA5kwi8h17z/WeGo---Prototype?node-id=290-741&p=f&t=yWxcTRQRMecSm9Nf-0">🎨 디자인 시안</a></th>
-    <th>UI/UX 디자인 프로토타입</th>
-  </tr>
 </table>
 
+<br></br>
+
+<h1>📦 Repositories</h1>
+
+<table>
+  <tr>
+    <th width="350px" align="center">
+      <h2><a href="https://github.com/WeGo-Together/WeGo_FrontEnd">🎨 WeGo FrontEnd</a></h2>
+    </th>
+    <th width="350px" align="center">
+      <h2><a href="https://github.com/WeGo-Together/WeGo_BackEnd">⚙️ WeGo BackEnd</a></h2>
+    </th>
+  </tr>
+</table>
 
 <br></br>
 
